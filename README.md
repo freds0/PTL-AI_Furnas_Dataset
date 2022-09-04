@@ -2,7 +2,7 @@
 
 This repo stores the PTL-AI Furnas Dataset from the paper: PTL-AI Furnas Dataset: A Public Dataset for Fault Detection in Power Transmission Lines Using Aerial Images.
 
-Download the dataset here.
+[Download the dataset here.](https://drive.google.com/file/d/1JfVxRV6C0vwLTBhW-C97fwj4gawraGHe/view?usp=sharing)
 
 This paper has been accepted for presentation at SIBGRAPI 2022.
 
