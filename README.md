@@ -2,9 +2,30 @@
 
 This repo stores the PTL-AI Furnas Dataset from the paper: PTL-AI Furnas Dataset: A Public Dataset for Fault Detection in Power Transmission Lines Using Aerial Images.
 
-[Download the dataset here.](https://drive.google.com/file/d/1JfVxRV6C0vwLTBhW-C97fwj4gawraGHe/view?usp=sharing)
 
 This paper has been accepted for presentation at SIBGRAPI 2022.
+
+[Download PTL-AI Furnas Dataset here.](https://drive.google.com/file/d/1JfVxRV6C0vwLTBhW-C97fwj4gawraGHe/view?usp=sharing)
+
+#### Checkpoints for tensorflow-based models are listed below:
+
+- [Faster-RCNN with Inception](https://drive.google.com/file/d/1IicN0pIV33-3Z-17knrir9ldZx3kfV8-/view?usp=sharing)
+- [Faster-RCNN with ResNet 152](https://drive.google.com/file/d/1AsPiiq5IIVXzWJ3QewD7BTQ29plB83j0/view?usp=sharing)
+- [Faster-RCNN with ResNet 101](https://drive.google.com/file/d/1Pj5FaCFW4qt7BZreSZiish92kYAEn98H/view?usp=sharing)
+- [SSD with ResNet 152](https://drive.google.com/file/d/15qwPU259B9cQC1otfFtOpG7Yyg8jreTL/view?usp=sharing)
+- [SSD with ResNet 101](https://drive.google.com/file/d/1Fl6TWfrdN_ZfCTNUqZiqYCfG4hCuZHGH/view?usp=sharing)
+- [SSD with ResNet 50](https://drive.google.com/file/d/1XCA-86Ve0lBaxsHvpe1jxFxkWCwUnlAf/view?usp=sharing)
+
+The source-code for training can be accessed [here](https://github.com/freds0/fault_detection_power_transmission_lines).
+
+#### Checkpoints for pytorch-based models are listed below:
+
+- [YOLO V5S6](https://drive.google.com/file/d/1xyo-fT2hfDpVG1YYgX7RUNMhpf07ncI3/view?usp=sharing)
+- [YOLO V5M6](https://drive.google.com/file/d/1PA2QPgY8BKugsuAuLfEEPMpXbMWDA-vW/view?usp=sharing)
+- [YOLO V5L6](https://drive.google.com/file/d/1fGNbIyHX0HVrbIrHLBxoO0ft55bZTmcr/view?usp=sharing)
+
+The source-code for training can be accessed [here](https://github.com/freds0/yolov5).
+
 
 ## Abstract
 We present a new images dataset called PTL-AI Furnas Dataset as a new benchmark for fault detection in power
