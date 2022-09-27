@@ -45,3 +45,8 @@ and the Mean Average Recall (mAR) with values mAP=91.9% and mAR=89.7%.
 ## Annotated Samples
 
 ![annotated_samples](imgs/annotated_samples.png)
+
+
+# Acknowledgment
+	
+We would like to thank the [CyberLabs](https://cyberlabs.ai/) and [CEIA/UFG](https://inf.ufg.br/p/39527-centro-de-excelencia-em-inteligencia-artificial-ceia) for financial support for this paper and [Eletrobras-Furnas](https://www.furnas.com.br/) for providing a specialized technical team, support and also the images used to create PTL-AI Furnas Dataset.
