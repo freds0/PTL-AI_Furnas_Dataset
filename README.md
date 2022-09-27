@@ -50,3 +50,9 @@ and the Mean Average Recall (mAR) with values mAP=91.9% and mAR=89.7%.
 # Acknowledgment
 	
 We would like to thank the [CyberLabs](https://cyberlabs.ai/) and [CEIA/UFG](https://inf.ufg.br/p/39527-centro-de-excelencia-em-inteligencia-artificial-ceia) for financial support for this paper and [Eletrobras-Furnas](https://www.furnas.com.br/) for providing a specialized technical team, support and also the images used to create PTL-AI Furnas Dataset.
+
+<p align="center">
+  <img src="https://files.cercomp.ufg.br/weby/up/1218/o/CEIA_transparente.png" alt="Logo CEIA" width="427">
+  <img src="https://files.cercomp.ufg.br/weby/up/1/o/Marca_UFG_cor_completa_horizontal.png" alt="Logo UFG" width="320">
+  <img src="http://www.ecbsa.com.br/img/site/clientes/17.jpg" alt="Logo Eletrobras-Furnas" width="640">
+</p>
